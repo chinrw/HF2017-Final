@@ -1,0 +1,76 @@
+body {
+	background-color: #333333;
+}
+
+.container {
+	text-align: center;
+	padding: 0 0 20px;
+}
+
+#page-title {
+	padding: 8px;
+	margin: 50px 0 30px;
+	color: white;
+}
+
+#page-main {
+	margin: 0;
+	text-align: left;
+	height: auto;
+
+	.content {
+		padding: 5px 15px 15px;
+		margin-top: 10px;
+		background-color: white;
+	}
+
+	#carousel {
+		position: relative;
+		display: block;
+		height: 500px !important;
+		margin-top: 10px;
+
+		.carousel-item {
+			background-color: white;
+
+			img {
+				height: 100%;
+				padding: 20px 0;
+				object-fit: contain;
+
+				&.cover {
+					object-fit: cover;
+				}
+			}
+
+			.caption {
+				padding: 12px 10px;
+				background-color: white;
+			}
+		}
+	}
+
+	.sections {
+		margin-top: 20px;
+		text-align: left;
+
+		.nav-extended {
+			margin: 0;
+			background-color: #176432;
+		}
+
+		.content {
+			margin-top: 0;
+			padding-top: 5px;
+			padding-bottom: 5px;
+		}
+
+		.section {
+			width: 100%;
+
+			p {
+				color: #747474;
+			}
+		}
+	}
+}
