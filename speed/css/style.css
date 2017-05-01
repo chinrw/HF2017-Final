@@ -1,0 +1,86 @@
+body {
+  background-color: #333333;
+}
+
+.container {
+  text-align: center;
+  padding: 0 0 20px;
+}
+
+#page-title {
+  padding: 8px;
+  margin: 50px 0 30px;
+  color: white;
+}
+
+#page-main {
+  margin: 0;
+  text-align: left;
+  height: auto;
+}
+
+#page-main .content {
+  padding: 5px 15px 15px;
+  margin-top: 10px;
+  background-color: white;
+}
+
+#page-main #carousel {
+  position: relative;
+  display: block;
+  height: 500px !important;
+  margin-top: 10px;
+}
+
+#page-main #carousel .carousel-item {
+  background-color: white;
+}
+
+#page-main #carousel .carousel-item img {
+  height: 100%;
+  padding: 20px 0;
+  object-fit: contain;
+}
+
+#page-main #carousel .carousel-item img.cover {
+  object-fit: cover;
+}
+
+#page-main #carousel .carousel-item .caption {
+  padding: 12px 10px;
+  background-color: white;
+}
+
+#page-main .sections {
+  margin-top: 20px;
+  text-align: left;
+}
+
+#page-main .sections .nav-extended {
+  margin: 0;
+  background-color: #176432;
+}
+
+#page-main .sections .content {
+  margin-top: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#page-main .sections .section {
+  width: 100%;
+}
+
+#page-main .sections .section p {
+  color: #747474;
+}
+
+.tabs.tabs-fixed-width {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+}
+
+
+/*# sourceMappingURL=style.css.map */
