@@ -32,19 +32,23 @@
   "sections": [
     {
       "title": "Abstract",
-      "tag": "abstract",
+      "tag": "section1",
       "body": ["A fluid flow torque generator unit is composed of an impeller assembly, a housing, and a supporting frame. The housing contains one half of the impeller assembly and is configured to divide the force of the oncoming fluid flow into three components which work together to increase the force on the front of the impellers and to create a suction effect on the back of the impellers increasing torque output. One unit powering an electric generator can produce sufficient electricity for residential or commercial use. One unit or multiple units working together can be incorporated into an assembly that includes a source of compressed air to provide an air flow when the wind subsides, insuring a continuous output of electricity. The basic unit operates equally well in response to underwater currents. The dimensions and number of units are determined by the fluid flow source and the desired output."]
 		}, {
       "title": "Reference",
-      "tag": "reference",
-      "body": ["<a href=\"https://www.google.com/patents/US8796876\">Hernâni José Nogueira Dias Da Silva (2014, August 5). Hydroelectric generator.</a>",
-			         "<a href=\"https://www.google.com/patents/US9512816\">Ferguson, F. D. (2016, December 6). Systems and methods to generate electricity using a three vane water turbine.</a>",
-		           "<a href=\"https://www.google.com/patents/US20120280508\">Hernâni José Nogueira Dias Da Silva (2016, November 8). Hydroelectric generator.</a>",
-	             "<a href=\"https://www.google.com/patents/US20130069372\">Ferguson, F. D. (2013, March 21). Systems and methods for improved water rotors.</a>"]
+      "tag": "section2",
+      "body": ["Hernâni José Nogueira Dias Da Silva (2014, August 5). Hydroelectric generator. Retrieved from https://www.google.com/patents/US8796876",
+			         "Ferguson, F. D. (2016, December 6). Systems and methods to generate electricity using a three vane water turbine. Retrieved from https://www.google.com/patents/US9512816",
+		           "Hernâni José Nogueira Dias Da Silva (2016, November 8). Hydroelectric generator. Retrieved from https://www.google.com/patents/US20120280508",
+	             "Ferguson, F. D. (2013, March 21). Systems and methods for improved water rotors. Retrieved from https://www.google.com/patents/US20130069372"]
 		}, {
       "title": "Author",
-      "tag": "author",
+      "tag": "section3",
       "body": ["Miguel Radhames Santos"]
+		}, {
+      "title": "Section 4",
+      "tag": "section4",
+      "body": ["Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus. Sed vel lacus. Mauris nibh felis, adipiscing varius, adipiscing in, lacinia vel, tellus. Suspendisse ac urna. Etiam pellentesque mauris ut lectus. Nunc tellus ante, mattis eget, gravida vitae, ultricies ac, leo. Integer leo pede, ornare a, lacinia eu, vulputate vel, nisl."]
 		}
 	]
 }

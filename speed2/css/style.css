@@ -58,7 +58,7 @@ body {
 
 #page-main .sections .nav-extended {
   margin: 0;
-  background-color: #004d40;
+  background-color: #176432;
 }
 
 #page-main .sections .content {
@@ -80,26 +80,6 @@ body {
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
-}
-
-.carousel .indicators .indicator-item {
-  display: inline-block;
-  position: relative;
-  cursor: pointer;
-  height: 8px;
-  width: 8px;
-  margin: 24px 4px;
-  background-color: rgba(132, 161, 214, 0.5);
-  transition: background-color .3s;
-  border-radius: 50%;
-}
-
-.carousel .indicators .indicator-item.active {
-  background-color: #004d40 !important;
-}
-
-#author-name {
-  font-size: xx-large;
 }
 
 
