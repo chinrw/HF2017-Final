@@ -33,18 +33,26 @@
     {
       "title": "Abstract",
       "tag": "abstract",
-      "body": ["A fluid flow torque generator unit is composed of an impeller assembly, a housing, and a supporting frame. The housing contains one half of the impeller assembly and is configured to divide the force of the oncoming fluid flow into three components which work together to increase the force on the front of the impellers and to create a suction effect on the back of the impellers increasing torque output. One unit powering an electric generator can produce sufficient electricity for residential or commercial use. One unit or multiple units working together can be incorporated into an assembly that includes a source of compressed air to provide an air flow when the wind subsides, insuring a continuous output of electricity. The basic unit operates equally well in response to underwater currents. The dimensions and number of units are determined by the fluid flow source and the desired output."]
+      "body": [
+        "A fluid flow torque generator unit is composed of an impeller assembly, a housing, and a supporting frame. The housing contains one half of the impeller assembly and is configured to divide the force of the oncoming fluid flow into three components which work together to increase the force on the front of the impellers and to create a suction effect on the back of the impellers increasing torque output. One unit powering an electric generator can produce sufficient electricity for residential or commercial use. One unit or multiple units working together can be incorporated into an assembly that includes a source of compressed air to provide an air flow when the wind subsides, insuring a continuous output of electricity. The basic unit operates equally well in response to underwater currents. The dimensions and number of units are determined by the fluid flow source and the desired output."
+        ]
 		}, {
       "title": "Reference",
       "tag": "reference",
-      "body": ["<a href=\"https://www.google.com/patents/US8796876\">Hernâni José Nogueira Dias Da Silva (2014, August 5). Hydroelectric generator.</a>",
+      "body": [
+        "<a href=\"https://www.google.com/patents/US8796876\">Hernâni José Nogueira Dias Da Silva (2014, August 5). Hydroelectric generator.</a>",
 			         "<a href=\"https://www.google.com/patents/US9512816\">Ferguson, F. D. (2016, December 6). Systems and methods to generate electricity using a three vane water turbine.</a>",
 		           "<a href=\"https://www.google.com/patents/US20120280508\">Hernâni José Nogueira Dias Da Silva (2016, November 8). Hydroelectric generator.</a>",
-	             "<a href=\"https://www.google.com/patents/US20130069372\">Ferguson, F. D. (2013, March 21). Systems and methods for improved water rotors.</a>"]
+	             "<a href=\"https://www.google.com/patents/US20130069372\">Ferguson, F. D. (2013, March 21). Systems and methods for improved water rotors.</a>"
+        ]
+		}, {
+      "title": "Details",
+      "tag": "detail",
+      "body": ["Just a little some detail"]
 		}, {
       "title": "Author",
       "tag": "author",
       "body": ["Miguel Radhames Santos"]
-		}
+    }
 	]
 }

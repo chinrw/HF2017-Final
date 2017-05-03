@@ -80,14 +80,12 @@ function setupSections(sections) {
 
     section.append('<h5>' + val.title + '</h5>');
     section.append('<div class="divider"></div>');
+    
     if (val.title != "Author") {
       $.each(val.body, function(key, val) {
         section.append('<p>' + val + '</p');
       });
     } else {
-
-
-
       $.each(val.body, function(key, val) {
         //  section.append('<div class="row"><div class="col s12 m5">' +
         //  '<div class="card-panel teal"><span>' + val + '</span></div></div></div>');
